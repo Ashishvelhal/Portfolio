@@ -16,7 +16,7 @@ A simple portfolio for developer/designers.
 
 Get the code
 
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
+<pre>git clone https://github.com/ubaimutl/-portfolio.git</pre>
  
 Install required dependencies
 
